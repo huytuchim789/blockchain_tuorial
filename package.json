@@ -1,0 +1,16 @@
+{
+  "name": "blockchain_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LightingChain.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jest": "^29.1.2"
+  }
+}
