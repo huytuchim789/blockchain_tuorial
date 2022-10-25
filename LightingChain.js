@@ -31,4 +31,3 @@ class Blockchain {
 const fooBlockChain = new Blockchain();
 fooBlockChain.addBlock("data1");
 fooBlockChain.addBlock("data2");
-console.log(fooBlockChain);
